@@ -10,7 +10,7 @@ Das Spielprinzip von Pong ist simpel: Ein Punkt (Ball) bewegt sich auf dem Bilds
 
 Wir werden zuerst ein einfaches Pong programmieren bei dem wir gegen den Computer spielen. 
 
-#### Setup
+## Setup
 ![](/img/code.png)
 1. Als Erstes müsst ihr ein eigenes Repository auf Github erstellen (nur eine Person). 
 2. Danach müsst ihr dieses noch auf GitHub für die zweite Person freigeben unter `Settings-> Manage Access -> Direct Access -> Invite Members`
@@ -22,7 +22,7 @@ Nachdem ihr ein Repository erstellt habt, müsst ihr noch 3 Dateien erstellen un
 2. `pong.js` -> Hier schreiben wir die Spiellogik bzw. den Code
 3. `style.css` -> Hier sind die Styles für das html-file definiert
 
-#### Pong Game anzeigen 
+### Pong Game anzeigen 
 Um zu sehen was ihr programmmiert habt, öffnet ihr die index.html Datei in eurem Browser (Rechtsklick oder Drag'n'Drop). 
 Dies könnte dann so aussehen: 
 ![](/img/index.jpg)
