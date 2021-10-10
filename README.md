@@ -10,28 +10,26 @@ Das Spielprinzip von Pong ist simpel: Ein Punkt („Ball“) bewegt sich auf dem
 
 Wir werden zuerst ein einfaches Pong programmieren bei dem wir gegen den Computer spielen. 
 
-## Setup 
-Clone dein Repo: Du hast nun ein Git-Repository lokal auf deinem Computer. Versuche mit den Git-Kommandos zu arbeiten und deinen Code regelmässig zu committen und zu pushen. 
-- `commit`: Speichert die Änderungen des local repository (Erstellt Snapshots des momentanen Zustandes)
-- `push`: Mehrere commits auf das remote repository "pushen" (hochladen).
-
-Hier kommen noch mehr Infos...
-
-#### Lokales Repo
+#### Setup
 ![](/img/code.png)
-Nachdem du den Ordner geclonet hast, solltest du 4 Dateien und 1 Ordner in deinem Repo finden. In `pong.js`schreiben wir die Spiellogik bzw. den Code:
+1. Als Erstes müsst ihr ein eigenes Repository auf Github erstellen (nur eine Person). 
+2. Danach müsst ihr dieses noch für die zweite Person freigeben unter `Einstellungen -> Manage access -> Direct access -> Invite members`
+3. Nun sollten beide das noch leere Repository bearbeiten und clonen können. 
+
+Nachdem ihr ein Repository erstellt habt, müsst ihr noch 3 Dateien erstellen und eurem Repository hinzufügen. Ihr könnt dies selbst aufsetzen oder den Code aus den entsprechenden Files aus diesem Repository kopieren.  
+
 1. `index.html` -> Hier wird das Spiel angezeigt 
-2. `pong.js` -> Hier schreiben wir den Code
+2. `pong.js` -> Hier schreiben wir die Spiellogik bzw. den Code
 3. `style.css` -> Hier sind die Styles für das html-file definiert
-4. `README.md`-> Das Readme, welches du gerade liest
+
 
 #### Pong Game anzeigen 
-Um zu sehen was du programmmiert hast, öffnest du die index.html Datei in deinem Browser. 
+Um zu sehen was ihr programmmiert habt, öffnet ihr die index.html Datei in deinem Browser. 
 Dies könnte dann so aussehen: 
 ![](/img/index.jpg)
 
 ## Additional
-Falls du möchstest kannst dein Pong Game beliebig erweitern oder verändern, du bist nicht an den Stil der 70er Jahre gebunden.
-* Versuche deinen eigenen Stil dem Pong Game hinzuzufügen (Bsp. verschwommene Bewegungen, der Ball zeichnet eine Spur, bunte Farben, etc.)
-* Lass den Ball immer schneller und das Spiel somit immer schwieriger werden.
-* Programmiere einen Gegenspieler. Der Einfachheit halber ist dieser Gegenspieler "dumm" und wird ebenfalls von dir bedient. 
+Falls ihr möchtet könnt ihr euer Pong Game beliebig erweitern oder verändern, ihr seid bist nicht an den Stil der 70er Jahre gebunden.
+* Versucht euren eigenen Stil dem Pong Game hinzuzufügen (Bsp. verschwommene Bewegungen, der Ball zeichnet eine Spur, bunte Farben, etc.)
+* Lasst den Ball immer schneller und das Spiel somit immer schwieriger werden.
+* Programmiert einen Gegenspieler*in. Der Einfachheit halber ist diese*r Gegenspieler*in "dumm" und wird ebenfalls von euch bedient. 
