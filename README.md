@@ -16,7 +16,7 @@ Wir werden zuerst ein einfaches Pong programmieren bei dem wir gegen den Compute
 2. Danach müsst ihr dieses noch auf GitHub für die zweite Person freigeben unter `Settings-> Manage Access -> Direct Access -> Invite Members`
 3. Nun sollten beide das noch leere Repository bearbeiten und clonen können. 
 
-Nachdem ihr ein Repository erstellt habt, müsst ihr noch 3 Dateien erstellen und eurem Repository hinzufügen (Am besten lokal in eurem geclonten Repository und dann pushen). Ihr könnt dies selbst aufsetzen oder den Code aus den entsprechenden Files aus diesem Repository kopieren.  
+Nachdem ihr ein Repository erstellt habt, müsst ihr noch 3 Dateien erstellen und eurem Repository hinzufügen (Am besten lokal in eurem geclonten Repository und dann pushen). Ihr könnt dies selbst aufsetzen oder den Code aus den entsprechenden Dateien aus diesem Repository kopieren.  
 
 1. `index.html` -> Hier wird das Spiel angezeigt 
 2. `pong.js` -> Hier schreiben wir die Spiellogik bzw. den Code
