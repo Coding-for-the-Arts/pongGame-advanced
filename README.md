@@ -4,7 +4,7 @@ Aufgabe ist es, das Game `Pong` zu programmieren. Dabei wollen wir mit zufällig
 ## Pong Game
 ![](/img/pong.png)
 
-Pong wurde 1972 von Atari veröffentlich und war das erste kommerziell erfolgreiche Spiel. Heute gilt Pong als das Spiel, mit dem die Videospielindustrie ihren Anfang nahm.
+Pong wurde 1972 von Atari veröffentlicht und war das erste kommerziell erfolgreiche Spiel. Heute gilt Pong als das Spiel, mit dem die Videospielindustrie ihren Anfang nahm.
 
 Das Spielprinzip von Pong ist simpel: Ein Punkt (Ball) bewegt sich auf dem Bildschirm hin und her. Jeder der beiden Spieler\*innen steuert einen senkrechten Strich (Schläger), den er mit einem Balken (Paddle) nach oben und unten verschieben kann. Lässt man den Ball am Schläger vorbei, erhält der/die Gegner\*in einen Punkt. [Original Atari PONG (1972)](https://www.youtube.com/watch?v=fiShX2pTz9A)
 
