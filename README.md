@@ -1,5 +1,5 @@
 # pongGame - Advanced 
-Aufgabe ist es, das Game `Pong` zu programmieren. Dabei wollen wir mit zufälliger Bewegung und User Input der Mouse ein simples Spiel programmieren. Diese Grundbausteine werden uns später helfen ein eigenes Mouse-Game zu entwickeln. 
+Aufgabe ist es, das Game `Pong` zu programmieren. Dabei wollen wir mit zufälliger Bewegung und User Input der Mouse ein simples Spiel programmieren. Diese Grundbausteine werden uns später helfen, ein eigenes Mouse-Game zu entwickeln. 
 
 ## Pong Game
 ![](/img/pong.png)
